@@ -1,0 +1,32 @@
+{
+  "name": "shodan-api-strongloop-connector",
+  "version": "1.0.0",
+  "description": "Strongloop connector for shodan APi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesjara/shodan-api-strongloop-connector.git"
+  },
+  "keywords": [
+    "strongloop",
+    "shodan",
+    "connector",
+    "api"
+  ],
+  "dependencies": {
+    "shodan-client": "2.0.0",
+    "loopback-connector": "*"
+  },
+  "author": "jamesjara", 
+  "license": {
+    "name": "MIT",
+    "url": "https://github.com/jamesjara/shodan-api-strongloop-connector/blob/master/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/jamesjara/shodan-api-strongloop-connector/issues"
+  },
+  "homepage": "https://github.com/jamesjara/shodan-api-strongloop-connector#readme"
+}

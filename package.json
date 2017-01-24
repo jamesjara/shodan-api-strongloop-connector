@@ -1,5 +1,5 @@
 {
-  "name": "shodan-api-strongloop-connector",
+  "name": "loopback-connector-shodan",
   "version": "1.0.0",
   "description": "Strongloop connector for shodan APi",
   "main": "index.js",
